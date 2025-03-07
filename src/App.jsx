@@ -48,7 +48,7 @@ const App = () => {
     <Layout>
       <Header className="header">
         <div className="logo" />
-        <h2 style={{ color: "white", marginBottom: "20px" }}>
+        <h2 style={{ color: "black", marginBottom: "20px" }}>
           🛒 Product Management Portal
         </h2>
       </Header>
