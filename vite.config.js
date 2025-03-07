@@ -8,6 +8,11 @@ export default defineConfig({
     rollupOptions: {
       external: ['react-bootstrap']
     }
+  },
+  resolve: {
+    alias: {
+      'react-bootstrap': 'react-bootstrap/dist/react-bootstrap.min.js'
+    }
   }
 })
 
