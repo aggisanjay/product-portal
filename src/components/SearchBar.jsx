@@ -2,7 +2,7 @@
 
 import React from "react";
 import { InputGroup, FormControl } from "react-bootstrap";
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 const SearchBar = ({ search, setSearch }) => {
   return (
     <InputGroup className="mb-3">
