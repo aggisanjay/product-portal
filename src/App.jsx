@@ -28,7 +28,7 @@ import ProductForm from "./components/ProductForm";
 import { getProducts } from "./services/productService";
 import { Container } from "react-bootstrap";
 import { Layout } from "antd";
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 import "./App.css";
 
 const { Header, Content } = Layout;
